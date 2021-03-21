@@ -1,0 +1,5 @@
+C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/CMakeFiles/NUMBER_LIB.dir
+C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/CMakeFiles/VECTOR_LIB.dir
+C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/CMakeFiles/Main.dir
+C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/CMakeFiles/rebuild_cache.dir

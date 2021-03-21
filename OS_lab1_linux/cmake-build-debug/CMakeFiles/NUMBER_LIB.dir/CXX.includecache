@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/OS_lab1_linux/Number.cpp
+Number.h
+C:/Users/ASUS/CLionProjects/OS_lab1_linux/Number.h
+cmath
+-
+
+C:/Users/ASUS/CLionProjects/OS_lab1_linux/Number.h
+iostream
+-
+
