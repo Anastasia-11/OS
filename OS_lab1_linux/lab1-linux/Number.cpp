@@ -1,5 +1,5 @@
-#include "Number.h"
 #include <cmath>
+#include "Number.h"
 
 Number::Number() : value(0) {}
 
@@ -30,7 +30,7 @@ Number::Number(const double& val) : value(val) {}
 Number::Number(const long double& val) : value(val) {}
 
 long double Number::getValue() const {
-    return value;
+    return this->value;
 }
 
 void Number::setValue(const long double& val) {

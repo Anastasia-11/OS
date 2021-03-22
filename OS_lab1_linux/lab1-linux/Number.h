@@ -1,3 +1,4 @@
+#pragma once
 #ifndef OS_LAB1_NUMBER_H
 #define OS_LAB1_NUMBER_H
 
@@ -46,7 +47,6 @@ public:
     friend std::ostream& operator<<(std::ostream& out, const Number& number);
     friend std::istream& operator>>(std::istream& in, Number& number);
 
-private:
 long double value;
 };
 
