@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/ASUS/CLionProjects/OS_lab1_windows/main.cpp" "C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/CMakeFiles/Main.dir/main.cpp.obj"
+  "C:/Users/ASUS/Desktop/study related/OS/OS_labs/OS_lab1_windows/main.cpp" "C:/Users/ASUS/Desktop/study related/OS/OS_labs/OS_lab1_windows/cmake-build-debug/CMakeFiles/Main.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
@@ -14,8 +14,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/CMakeFiles/NUMBER_LIB.dir/DependInfo.cmake"
-  "C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/CMakeFiles/VECTOR_LIB.dir/DependInfo.cmake"
+  "C:/Users/ASUS/Desktop/study related/OS/OS_labs/OS_lab1_windows/cmake-build-debug/CMakeFiles/NUMBER_LIB.dir/DependInfo.cmake"
+  "C:/Users/ASUS/Desktop/study related/OS/OS_labs/OS_lab1_windows/cmake-build-debug/CMakeFiles/VECTOR_LIB.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

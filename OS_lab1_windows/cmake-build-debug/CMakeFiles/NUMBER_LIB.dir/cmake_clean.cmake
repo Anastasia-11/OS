@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/NUMBER_LIB.dir/Number.cpp.obj"
-  "libNUMBER_LIB.a"
-  "libNUMBER_LIB.pdb"
+  "NUMBER_LIB.lib"
+  "NUMBER_LIB.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

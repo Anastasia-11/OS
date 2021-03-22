@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ASUS/CLionProjects/OS_lab1_windows
+# Install script for directory: C:/Users/ASUS/Desktop/study related/OS/OS_labs/OS_lab1_windows
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/ASUS/CLionProjects/OS_lab1_windows/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/ASUS/Desktop/study related/OS/OS_labs/OS_lab1_windows/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

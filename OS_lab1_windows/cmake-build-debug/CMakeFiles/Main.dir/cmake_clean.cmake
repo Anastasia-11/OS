@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Main.dir/main.cpp.obj"
   "Main.exe"
   "Main.exe.manifest"
+  "Main.lib"
   "Main.pdb"
-  "libMain.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
