@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anastasiya/Desktop/OS_lab3/Params1.h
+vector
+-
+
+/home/anastasiya/Desktop/OS_lab3/Params2.h
+
+/home/anastasiya/Desktop/OS_lab3/Params3.h
+
+/home/anastasiya/Desktop/OS_lab3/Timer.h
+chrono
+-
+
+/home/anastasiya/Desktop/OS_lab3/main.cpp
+pthread.h
+-
+iostream
+-
+vector
+-
+chrono
+-
+mutex
+-
+fstream
+-
+string
+-
+Timer.h
+/home/anastasiya/Desktop/OS_lab3/Timer.h
+Params1.h
+/home/anastasiya/Desktop/OS_lab3/Params1.h
+Params2.h
+/home/anastasiya/Desktop/OS_lab3/Params2.h
+Params3.h
+/home/anastasiya/Desktop/OS_lab3/Params3.h
+
