@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/OS_lab_3/Params1.h
+vector
+-
+
+C:/Users/ASUS/CLionProjects/OS_lab_3/Params2.h
+
+C:/Users/ASUS/CLionProjects/OS_lab_3/Timer.h
+chrono
+-
+
+C:/Users/ASUS/CLionProjects/OS_lab_3/main.cpp
+windows.h
+-
+iostream
+-
+vector
+-
+chrono
+-
+mutex
+-
+fstream
+-
+string
+-
+Timer.h
+C:/Users/ASUS/CLionProjects/OS_lab_3/Timer.h
+Params1.h
+C:/Users/ASUS/CLionProjects/OS_lab_3/Params1.h
+Params2.h
+C:/Users/ASUS/CLionProjects/OS_lab_3/Params2.h
+
